@@ -1,0 +1,21 @@
+ul {
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+    float: left
+    /* text-align: center; */
+}
+#title {
+    font-size: 50px;
+    font-family: 'Economica', sans-serif;
+}
+
+#scores {
+    clear: both;
+    display: table;
+}
+
+.nav2 {
+    float: left;
+    margin: 0 auto;
+} 

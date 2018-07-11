@@ -1,0 +1,10 @@
+
+.character {
+    width: 100px;
+    height: 100px;
+    margin: 0.5em 0em 0.5em 0em;
+}
+
+.character:hover {
+    box-shadow: 5px 10px 5px black;
+}
